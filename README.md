@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armando Lopez</h1>
-<h3 align="center">A passionate frontend developer from Perú,I am currently in the ninth cycle of my career, systems engineering at the University of Lima and I am taking an ethical hacking course at the Western University of Colombia.</h3>
+<h3 align="center">A passionate frontend developer from Perú,I am currently in the ninth cycle of my career, systems engineering at the University of Lima and I am taking an ethical hacking course at the  Universidad Autónoma  de Occidente in Colombia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreck2022&label=Profile%20views&color=0e75b6&style=flat" alt="dreck2022" /> </p>
 
